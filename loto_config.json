@@ -1,0 +1,16 @@
+{
+  "full_history_loaded": true,
+  "last_update": "2026-10-02T18:08:06",
+  "last_diagnostics": [
+    "Historique Loto de novembre 2019 à juillet 2026 : 1049/1049 lignes conservées (colonne date « date_de_tirage », fiabilité 100%)"
+  ],
+  "period_start": "2026-01",
+  "last_full_diagnostics": [
+    "Historique Loto de novembre 2019 à juillet 2026 : 1049/1049 lignes conservées (colonne date « date_de_tirage », fiabilité 100%)",
+    "Historique Loto de février 2019 à novembre 2019 : 107/107 lignes conservées (colonne date « date_de_tirage », fiabilité 100%)",
+    "Historique Loto de mars 2017 à février 2019 : 310/310 lignes conservées (colonne date « date_de_tirage », fiabilité 100%)",
+    "Historique Loto de octobre 2008 à mars 2017 : 1317/1317 lignes conservées (colonne date « date_de_tirage », fiabilité 100%)",
+    "Historique Loto de mai 1976 à octobre 2008 : 4858/4858 lignes conservées (colonne date « date_de_tirage », fiabilité 100%)"
+  ],
+  "last_full_backfill_date": "2026-07-19T18:52:20"
+}
